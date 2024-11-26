@@ -22,4 +22,4 @@ Thermal Control Subsystem (TCS): Temperature control function.\
 Attitude Control Subsystem (ACS): Attitude determination and rotation calculations.\
 Command and Data Handling (C&DH): Command parsing and routing.\
 Electrical Power Subsystem (EPS): Power budget analysis and battery charging calculations.\
-Remote Sensing Payload: Data ingestion, radiance to reflectance conversion, and image rescaling.\
+Remote Sensing Payload: Data ingestion, radiance to reflectance conversion, and image rescaling.

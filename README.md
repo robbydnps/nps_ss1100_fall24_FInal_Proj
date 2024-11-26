@@ -2,8 +2,8 @@
 ## Final Project: Programming Spacecraft Systems
 
 ### Assignment
-- **Instructions**: Work in groups of four to complete the steps outlined in the project.
-- **Submission**: All of your submission will go here in this repository, to include this README file to hold your writeup
+- **Instructions**: Work in groups of four to complete the steps outlined in the project instructions.
+- **Submission**: All of your submission will go here in this repository, to include this README file to hold your writeup.
 
 ### Procedure
 #### Preparation

@@ -16,10 +16,10 @@
 2. Use at least one section in Matlab.
 3. Submit the project using GitHub.
 
-### Subsystems and Tasks
-Reaction Control Subsystem (RCS): Malfunction detection and velocity change calculation.
-Thermal Control Subsystem (TCS): Temperature control function.
-Attitude Control Subsystem (ACS): Attitude determination and rotation calculations.
-Command and Data Handling (C&DH): Command parsing and routing.
-Electrical Power Subsystem (EPS): Power budget analysis and battery charging calculations.
-Remote Sensing Payload: Data ingestion, radiance to reflectance conversion, and image rescaling.
+#### Subsystems and Tasks
+Reaction Control Subsystem (RCS): Malfunction detection and velocity change calculation.\
+Thermal Control Subsystem (TCS): Temperature control function.\
+Attitude Control Subsystem (ACS): Attitude determination and rotation calculations.\
+Command and Data Handling (C&DH): Command parsing and routing.\
+Electrical Power Subsystem (EPS): Power budget analysis and battery charging calculations.\
+Remote Sensing Payload: Data ingestion, radiance to reflectance conversion, and image rescaling.\

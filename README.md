@@ -3,7 +3,7 @@
 
 ### Assignment
 - **Instructions**: Work in groups of four to complete the steps outlined in the project.
-- **Submission**: Turn in screenshots, code snippets, and a report directly to the instructor.
+- **Submission**: All of your submission will go here in this repository, to include this README file to hold your writeup
 
 ### Procedure
 #### Preparation
@@ -13,8 +13,8 @@
 
 #### Requirements
 1. Complete all tasks listed in each section, paying attention to the Evaluation subsections.
-2. Use at least one section in Matlab.
-3. Submit the project using GitHub.
+2. Use MatLab to complete at least one of the tasks.
+3. Submit the project using GitHub, replacing the content of this README file with your writeup and presentation of the work.
 
 #### Subsystems and Tasks
 Reaction Control Subsystem (RCS): Malfunction detection and velocity change calculation.\
